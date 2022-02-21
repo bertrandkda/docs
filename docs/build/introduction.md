@@ -20,7 +20,7 @@ Build your best ideas with us
 <PageRef url="https://github.com/kadena-io/developer-scripts" pageName="View the source" />
 <PageRef url="resources/useful-tools" pageName="Get the tools" />
 
-## Here's what you''l need
+## Here's what you will need
 
 ### Pact
 
